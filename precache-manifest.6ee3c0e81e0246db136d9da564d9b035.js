@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f7a2850516a811f6f537",
+    "revision": "dbb4c0f168eb3a651ba4",
     "url": "/disney_plus_clone/static/css/main.1e5f8d24.chunk.css"
   },
   {
-    "revision": "f7a2850516a811f6f537",
-    "url": "/disney_plus_clone/static/js/main.2f1b6658.chunk.js"
+    "revision": "dbb4c0f168eb3a651ba4",
+    "url": "/disney_plus_clone/static/js/main.598cc97d.chunk.js"
   },
   {
     "revision": "a4d5fff966eb9f6d279d",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/disney_plus_clone/static/js/3.801fde01.chunk.js"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/disney_plus_clone/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/disney_plus_clone/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/disney_plus_clone/static/media/slick.ced611da.eot"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/disney_plus_clone/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "f755da1d667eabd5b4d1d3a4a481f40c",
+    "revision": "9bf315f6af35bf24f9bc4306d01de325",
     "url": "/disney_plus_clone/index.html"
   }
 ];
