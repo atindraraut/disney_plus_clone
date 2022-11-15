@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8a8a4c8261850efaf1d2",
+    "revision": "cc354bb881c072734fa6",
     "url": "/disney_plus_clone/static/css/main.1e5f8d24.chunk.css"
   },
   {
-    "revision": "8a8a4c8261850efaf1d2",
-    "url": "/disney_plus_clone/static/js/main.ef442a03.chunk.js"
+    "revision": "cc354bb881c072734fa6",
+    "url": "/disney_plus_clone/static/js/main.b72061f1.chunk.js"
   },
   {
     "revision": "a4d5fff966eb9f6d279d",
@@ -24,23 +24,23 @@ self.__precacheManifest = [
     "url": "/disney_plus_clone/static/js/3.801fde01.chunk.js"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/disney_plus_clone/static/media/slick.b7c9e1e4.woff"
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/disney_plus_clone/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/disney_plus_clone/static/media/slick.ced611da.eot"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/disney_plus_clone/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/disney_plus_clone/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/disney_plus_clone/static/media/slick.f97e3bbf.svg"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/disney_plus_clone/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "70b40e7b00209103c49018c64fb564d7",
+    "revision": "3a1776bd6da919ecdcc4dd664bffdb94",
     "url": "/disney_plus_clone/index.html"
   }
 ];
