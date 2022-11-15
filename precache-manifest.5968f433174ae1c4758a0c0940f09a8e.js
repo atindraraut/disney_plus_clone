@@ -24,20 +24,20 @@ self.__precacheManifest = [
     "url": "/disney_plus_clone/static/js/3.801fde01.chunk.js"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/disney_plus_clone/static/media/slick.ced611da.eot"
-  },
-  {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/disney_plus_clone/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/disney_plus_clone/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/disney_plus_clone/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/disney_plus_clone/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/disney_plus_clone/static/media/slick.ced611da.eot"
   },
   {
     "revision": "9bf315f6af35bf24f9bc4306d01de325",
