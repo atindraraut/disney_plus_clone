@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/disney_plus_clone/precache-manifest.7bbbacb5879e9d22c3a1e3b747b9efcb.js"
+  "/disney_plus_clone/precache-manifest.e4b4923654237c8358a0144c9d3814e2.js"
 );
 
 workbox.clientsClaim();
