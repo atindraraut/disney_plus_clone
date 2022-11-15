@@ -9,7 +9,7 @@ import Login from './components/Login'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/disney_plus_clone">
       <div className="App">
         <Header />
         <Routes>

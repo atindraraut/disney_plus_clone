@@ -5,7 +5,7 @@ const Login = () => {
   return (
     <Container>
       <Content>
-        <CTALogo src="/images/cta-logo-one.svg"></CTALogo>
+        <CTALogo src="./images/cta-logo-one.svg"></CTALogo>
         <SignUp>GET ALL THERE</SignUp>
         <Description>
           Lorem Ipsum is simply dummy text of the printing and typesetting
@@ -14,7 +14,7 @@ const Login = () => {
           scrambled it to make a type specimen book. It has survived not only
           five centuries, but also the leap into.
         </Description>
-        <CTALogoTwo src='/images/cta-logo-two.png'/>
+        <CTALogoTwo src='./images/cta-logo-two.png'/>
       </Content>
     </Container>
   );
