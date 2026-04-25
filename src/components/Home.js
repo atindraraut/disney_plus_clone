@@ -8,6 +8,7 @@ import db from "../firebase";
 function Home() {
   useEffect(() => {
     db.collection("movies").onSnapshot((snapshot) => {
+      // eslint-disable-next-line no-unused-vars
       let tempMovies = snapshot.docs.map((doc) => {
         return { id: doc.id, ...doc.data() };
       });

@@ -11,22 +11,22 @@ const Details = () => {
         />
       </Background>
       <ImageTitle>
-        <img src="https://seeklogo.com/images/P/Pokemon-logo-0EAFBD7E4E-seeklogo.com.png" />
+        <img src="https://seeklogo.com/images/P/Pokemon-logo-0EAFBD7E4E-seeklogo.com.png" alt="Pokemon" />
       </ImageTitle>
       <Controls>
         <PlayButton>
-          <img src="./images/play-icon-black.png" />
+          <img src="./images/play-icon-black.png" alt="" />
           <span>PLAY</span>
         </PlayButton>
         <TrailerButton>
-          <img src="./images/play-icon-black.png" />
+          <img src="./images/play-icon-black.png" alt="" />
           <span>Trailer</span>
         </TrailerButton>
         <AddButton>
           <span>+</span>
         </AddButton>
         <GroupWatchButton>
-          <img src="./images/group-icon.png" />
+          <img src="./images/group-icon.png" alt="" />
         </GroupWatchButton>
       </Controls>
       <SubTitle>2018 / 7m / Family / Fantasy / Kids / Animation</SubTitle>

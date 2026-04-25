@@ -9,27 +9,27 @@ const Movies = () => {
       <Content>
         <Link to="/detail">
           <Wrap>
-            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" />
+            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" alt="movie poster" />
           </Wrap>
         </Link>
         <Link to="/detail">
           <Wrap>
-            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" />
+            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" alt="movie poster" />
           </Wrap>
         </Link>
         <Link to="/detail">
           <Wrap>
-            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" />
+            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" alt="movie poster" />
           </Wrap>
         </Link>
         <Link to="/detail">
           <Wrap>
-            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" />
+            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" alt="movie poster" />
           </Wrap>
         </Link>
         <Link to="/detail">
           <Wrap>
-            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" />
+            <img src="https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season24/season24_ep04_ss03.png" alt="movie poster" />
           </Wrap>
         </Link>
       </Content>
