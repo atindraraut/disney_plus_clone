@@ -7,30 +7,30 @@ function Header() {
     <Nav>
       <Link to='/'><Logo src="./images/logo.svg"></Logo></Link>
       <Navmenu>
-        <a href="/">
+        <Link to="/">
           <img src="./images/home-icon.svg" alt="home" />
           <span>HOME</span>
-        </a>
-        <a href="#">
+        </Link>
+        <Link to="/">
           <img src="./images/search-icon.svg" alt="search" />
           <span>SEARCH</span>
-        </a>
-        <a href="#">
+        </Link>
+        <Link to="/">
           <img src="./images/watchlist-icon.svg" alt="watchlist" />
           <span>WATCHLIST</span>
-        </a>
-        <a href="#">
+        </Link>
+        <Link to="/">
           <img src="./images/original-icon.svg" alt="originals" />
           <span>ORIGINALS</span>
-        </a>
-        <a href="#">
+        </Link>
+        <Link to="/">
           <img src="./images/movie-icon.svg" alt="movies" />
           <span>MOVIES</span>
-        </a>
-        <a href="#">
+        </Link>
+        <Link to="/">
           <img src="./images/series-icon.svg" alt="series" />
           <span>SERIES</span>
-        </a>
+        </Link>
       </Navmenu>
       <Link to='/login'><UserImg src="./images/avatar.webp" /></Link>
     </Nav>
